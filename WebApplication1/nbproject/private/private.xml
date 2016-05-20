@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/Registration.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/index.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/addProperty.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/css/styleRegistration.css</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/AddAdress.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/database/DataBase.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/AuthorizationServlet.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/AddPropertyServlet.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/img/myimg1.jpg</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/css/style.css</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/DeleteAdress.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/database/DBConstants.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/css/styleAdmin.css</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/DeleteProprty.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/userMain.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/registration.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/adminMain.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/exception.jsp</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/entity/Initialization.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/AddPropertyUser.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/database/DataBaseChecker.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/entity/User.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/css/bootstrap.css.map</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/dao/DaoAdress.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/img/header.png</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/dao/DaoUser.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/entity/Adress.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/ShowTable.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/entity/table.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/DaoException.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/DeleteUser.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/EditUser.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/entity/Property.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/dao/DaoProperty.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/EditAdress.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/PropertyOutput.java</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/web/img/myimg.jpg</file>
+            <file>file:/C:/Users/Сергей/Documents/NetBeansProjects/WebApplication1/src/java/controller/RegistrationAdmin.java</file>
+        </group>
+    </open-files>
+</project-private>
